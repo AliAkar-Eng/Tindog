@@ -234,5 +234,24 @@ font-size: 1.5rem;
         position: static;
         transform: rotate(0);
     }
+
+      .big-heading {
+    font-size: 2.5rem;
+    line-height: 1.3;
+  }
+
+  .section-heading {
+    font-size: 1.8rem;
+  }
+
+  .pricing-text {
+    font-size: 2rem;
+  }
+
+  .testimonial-text {
+    font-size: 1.8rem;
+  }
 }
+
+
 
